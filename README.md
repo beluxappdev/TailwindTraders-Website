@@ -4,6 +4,8 @@
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
 
+[![Build Status](https://dev.azure.com/beluxappdev/TailwindTraders/_apis/build/status/Tailwind-Website-CI?branchName=master)](https://dev.azure.com/beluxappdev/TailwindTraders/_build/latest?definitionId=2&branchName=master)
+
 You can take a look at our live running website following this address: [https://tailwindtraders.com](https://tailwindtraders.com)
 
 # Repositories
