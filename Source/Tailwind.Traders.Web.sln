@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28606.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Traders.Web", "Tailwind.Traders.Web\Tailwind.Traders.Web.csproj", "{6148DD0E-9240-44E0-A539-99AEA88A44BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailwind.Traders.Web.Tests", "Tailwind.Traders.Web.Tests\Tailwind.Traders.Web.Tests.csproj", "{CEA2EBE9-61D2-4D85-A714-53ED48090FB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6148DD0E-9240-44E0-A539-99AEA88A44BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6148DD0E-9240-44E0-A539-99AEA88A44BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6148DD0E-9240-44E0-A539-99AEA88A44BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA2EBE9-61D2-4D85-A714-53ED48090FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA2EBE9-61D2-4D85-A714-53ED48090FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA2EBE9-61D2-4D85-A714-53ED48090FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA2EBE9-61D2-4D85-A714-53ED48090FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
